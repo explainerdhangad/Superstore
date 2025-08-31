@@ -30,18 +30,6 @@ Forecasting Analysis: 15-day sales forecast using Power BI’s built-in forecast
 
 Visualization Techniques: Applied charts, KPIs, and slicers to make insights easy to understand.
 
-📸 Dashboard Preview
-
-https://github.com/explainerdhangad/Superstore/blob/main/Screenshot%202025-08-31%20122647.png
-
-https://github.com/explainerdhangad/Superstore/blob/main/Screenshot%202025-08-31%20122657.png
-
-<img width="1919" height="1076" alt="Screenshot 2025-08-31 122647" src="https://github.com/user-attachments/assets/c7fbd370-ef0d-4068-a12b-aa97d4b7b33f" />
-
-
-<img width="1932" height="1065" alt="Screenshot 2025-08-31 122657" src="https://github.com/user-attachments/assets/7b4cdeb2-049e-4ed8-b4ad-87d856f91647" />
-
-
 🚀 Learning Outcomes
 
 Improved understanding of Power BI visualization techniques.
@@ -49,4 +37,15 @@ Improved understanding of Power BI visualization techniques.
 Hands-on practice with forecasting and trend analysis.
 
 Enhanced skills in data storytelling and dashboard design.
+
+📸 Dashboard Preview
+
+
+<img width="1919" height="1076" alt="Screenshot 2025-08-31 122647" src="https://github.com/user-attachments/assets/c7fbd370-ef0d-4068-a12b-aa97d4b7b33f" />
+
+
+<img width="1932" height="1065" alt="Screenshot 2025-08-31 122657" src="https://github.com/user-attachments/assets/7b4cdeb2-049e-4ed8-b4ad-87d856f91647" />
+
+
+
 
